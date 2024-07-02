@@ -1,1 +1,1 @@
-prodigy-tech-task1
+PRODIGY-TECH-TASK1
